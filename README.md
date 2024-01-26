@@ -28,7 +28,7 @@ Selected bunch of windows .msstyles themes gathered allover the Internet tweaked
 ### Installing
 
 * Download latest [release](https://github.com/listumps/wine_themes/releases/latest)
-* Considering your WINEPREFIX is the default one (~/.wine) then just unzip all files and folders into ~/.wine/drive_c/windows/resources/themes directory
+* Considering your WINEPREFIX is the default one (~/.wine) then just unzip all files and folders into ~/.wine/drive_c/windows/resources/themes
 
 ### Applying a theme
 
