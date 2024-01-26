@@ -36,7 +36,7 @@ Selected bunch of windows .msstyles themes gathered allover the Internet tweaked
 ```bash
 regedit /C ~/.wine/drive_c/windows/resources/themes/apply_{theme name}_theme.reg
 ```
-where *apply_{theme name}_theme.reg* is one of the .reg files supplied in the release.
+where *apply_{theme name}_theme.reg* is one of the .reg files supplied in the [release](https://github.com/listumps/wine_themes/releases/latest).
 
 
 ## Acknowledgments
