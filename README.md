@@ -5,7 +5,7 @@ A collection of restyled .msstyles themes for wine.
 
 ## Description
 
-Selected bunch of windows .msstyles themes gathered from allover the Internet tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
+Selected bunch of windows .msstyles themes gathered from allover the Internet and tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
 
 *	[Windows XP Luna Blue Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
 *	[Windows XP Luna Silver Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
