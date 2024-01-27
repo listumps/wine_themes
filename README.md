@@ -7,7 +7,7 @@ A collection of original and restyled .msstyles themes for [wine](https://www.wi
 
 Selected bunch of windows .msstyles themes gathered from allover the Internet and some of them tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
 
-* [Windows XP Style Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna) (*color schemes: Blue, Silver, Olive Green*)
+* [**Windows XP Style Theme**](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna) (*color schemes: Blue, Silver, Olive Green*)
 * [Windows XP Royale Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Royale)
 * [Windows XP Zune Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Zune)
 * [Windows Classic Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Windows_Classic)
