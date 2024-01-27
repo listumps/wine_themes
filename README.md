@@ -1,11 +1,11 @@
 # wine_themes
  
-A collection of restyled .msstyles themes for wine.
+A collection of original and restyled .msstyles themes for wine.
  
 
 ## Description
 
-Selected bunch of windows .msstyles themes gathered from allover the Internet and tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
+Selected bunch of windows .msstyles themes gathered from allover the Internet and some of them tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
 
 *	[Windows XP Luna Blue Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
 *	[Windows XP Luna Silver Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
@@ -16,11 +16,9 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * Light Theme included in wine >= 8.0
 * Lunainspaqua Theme
 * Ambient Theme
-* Human Orange Theme
-* Human Blue Theme
-* Human Graphite Theme
-* Human Green Theme
-* Human Purple Theme
+* Capriccio Theme
+* Human Theme
+
 
 ## Getting Started
 
@@ -34,13 +32,17 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * Download latest [release](https://github.com/listumps/wine_themes/releases/latest)
 * Considering your WINEPREFIX is the default one (~/.wine) then just unzip all files and folders into ~/.wine/drive_c/windows/resources/themes
 
-### Applying a theme
+### Applying a restyled/tweaked theme
 
 * Considering your WINEPREFIX is the default one (~/.wine) then just run in console:
 ```bash
 regedit /C ~/.wine/drive_c/windows/resources/themes/reg/apply_{name}_theme.reg
 ```
 where *apply_{name}_theme.reg* is one of the .reg files supplied in the [release](https://github.com/listumps/wine_themes/releases/latest).
+
+### Applying an original theme
+
+You can always do this by means of running [winecfg](https://wiki.winehq.org/Winecfg) GUI configuration tool and going to 'Desktop Integration' tab.
 
 
 ## Acknowledgments
