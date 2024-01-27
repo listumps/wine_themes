@@ -16,7 +16,11 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * Light Theme included in wine >= 8.0
 * Lunainspaqua Theme
 * Ambient Theme
-
+* Human Orange Theme
+* Human Blue Theme
+* Human Graphite Theme
+* Human Green Theme
+* Human Purple Theme
 
 ## Getting Started
 
