@@ -7,17 +7,15 @@ A collection of original and restyled .msstyles themes for [wine](https://www.wi
 
 Selected bunch of windows .msstyles themes gathered from allover the Internet and some of them tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
 
-*	[Windows XP Luna Blue Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
-*	[Windows XP Luna Silver Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
-*	[Windows XP Luna Olive Green Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
+* [Windows XP Style Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna) (*color schemes: Blue, Silver, Olive Green*)
 * [Windows XP Royale Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Royale)
 * [Windows XP Zune Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Zune)
 * [Windows Classic Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Windows_Classic)
-* Light Theme (*included in wine >= 8.0*)
-* Lunainspaqua Theme
-* Ambient Theme
+* Lunainspaqua Theme (*color schemes: Normal, Compact, Compact2*)
+* Ambient Theme (*color schemes: Default, Compact, Classic, CLasic Compact*)
+* Human Theme (*color schemes: Orange, Blue, Graphite, Green, Purple, Orange Compact, Blue Compact, Grahite Compact, Green Compact, Purple Compact*)
 * Capriccio Theme
-* Human Theme
+* Light Theme (*included in wine >= 8.0*)
 
 <p float="left">
 	<a href="./images/win_xp_blue_theme.jpg"><img src="./images/win_xp_blue_theme.jpg" width="33%" title="Windows XP Luna Blue Theme" /></a>
@@ -54,7 +52,7 @@ where *apply_{name}_theme.reg* is one of the .reg files supplied in the [release
 
 ### Applying an original theme
 
-You can always do this by means of running [winecfg](https://wiki.winehq.org/Winecfg) GUI configuration tool and going to 'Desktop Integration' tab.
+You can always apply any of the original themes listed in the [description](#Description) by means of running [winecfg](https://wiki.winehq.org/Winecfg) GUI configuration tool and going to 'Desktop Integration' tab.
 
 
 ## Acknowledgments
