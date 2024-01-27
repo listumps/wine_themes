@@ -20,7 +20,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * Human Theme
 
 <p float="left">
-	<a href="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg"><img src="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg" width="33%" title="Windows XP Luna Blue Theme" /></a>
+	<a href="./images/win_xp_blue_theme.jpg"><img src="./images/win_xp_blue_theme.jpg" width="33%" title="Windows XP Luna Blue Theme" /></a>
 	<a href="https://i.pinimg.com/originals/63/c8/b3/63c8b3ba1f42c3e98962a43ddb4b6083.jpg"><img src="https://i.pinimg.com/originals/63/c8/b3/63c8b3ba1f42c3e98962a43ddb4b6083.jpg" width="33%" title="Windows XP Luna Silver Theme" /></a>
 	<a href="https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg"><img src="https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg" width="33%" title="Windows XP Luna Olive Green Theme" /></a>
 </p>
@@ -41,7 +41,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 
 ### Installing
 
-* Download latest [release](https://github.com/listumps/wine_themes/releases/latest)
+* Download latest [release](./releases/latest)
 * Considering your WINEPREFIX is the default one (~/.wine) then just unzip all files and folders into ~/.wine/drive_c/windows/resources/themes
 
 ### Applying a restyled/tweaked theme
@@ -50,7 +50,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 ```bash
 regedit /C ~/.wine/drive_c/windows/resources/themes/reg/apply_{name}_theme.reg
 ```
-where *apply_{name}_theme.reg* is one of the .reg files supplied in the [release](https://github.com/listumps/wine_themes/releases/latest).
+where *apply_{name}_theme.reg* is one of the .reg files supplied in the [release](./releases/latest).
 
 ### Applying an original theme
 
