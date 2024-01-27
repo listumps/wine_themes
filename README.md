@@ -1,6 +1,6 @@
 # wine_themes
  
-A collection of original and restyled .msstyles themes for wine.
+A collection of original and restyled .msstyles themes for [wine](https://www.winehq.org/).
  
 
 ## Description
