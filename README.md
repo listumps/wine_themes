@@ -8,7 +8,6 @@ A collection of original and restyled .msstyles themes for [wine](https://www.wi
 Selected bunch of windows .msstyles themes gathered from allover the Internet and some of them tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
 
 *	[Windows XP Luna Blue Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
-<!-- [![](https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg)](https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg "Windows XP Luna Blue Theme") -->
 *	[Windows XP Luna Silver Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
 *	[Windows XP Luna Olive Green Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
 * [Windows XP Royale Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Royale)
@@ -20,12 +19,15 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * Capriccio Theme
 * Human Theme
 
-<!--[<img src="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg" style="width: 400px;" />](https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg "Windows XP Luna Blue Theme")-->
-
 <p float="left">
 	<a href="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg"><img src="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg" width="33%" title="Windows XP Luna Blue Theme" /></a>
 	<a href="https://i.pinimg.com/originals/63/c8/b3/63c8b3ba1f42c3e98962a43ddb4b6083.jpg"><img src="https://i.pinimg.com/originals/63/c8/b3/63c8b3ba1f42c3e98962a43ddb4b6083.jpg" width="33%" title="Windows XP Luna Silver Theme" /></a>
 	<a href="https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg"><img src="https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg" width="33%" title="Windows XP Luna Olive Green Theme" /></a>
+</p>
+<p float="left">
+	<a href="https://static.wikia.nocookie.net/windows/images/4/47/Windows_XP_Royale.png/revision/latest?cb=20120822200936"><img src="https://static.wikia.nocookie.net/windows/images/4/47/Windows_XP_Royale.png/revision/latest?cb=20120822200936" width="33%" title="Windows Royale Theme" /></a>
+	<a href="https://static.wikia.nocookie.net/windows/images/3/38/Windows_XP_Zune.png/revision/latest?cb=20120826035132"><img src="https://static.wikia.nocookie.net/windows/images/3/38/Windows_XP_Zune.png/revision/latest?cb=20120826035132" width="33%" title="Windows XP Zune Theme" /></a>
+	<a href="https://i.imgur.com/rJNOhQg.png"><img src="https://i.imgur.com/rJNOhQg.png" width="33%" title="Windows Classic Theme" /></a>
 </p>
 
 
