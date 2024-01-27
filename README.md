@@ -25,6 +25,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 <p float="left">
 	<img src="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg" width="25%" />
 	<img src="https://i.pinimg.com/originals/63/c8/b3/63c8b3ba1f42c3e98962a43ddb4b6083.jpg" width="25%" />
+	[<img src="https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg" width="25%" />](https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg "Windows XP Luna Olive Green Theme")
 </p>
 
 
