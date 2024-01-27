@@ -21,13 +21,13 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 
 <p float="left">
 	<a href="./images/win_xp_blue_theme.jpg"><img src="./images/win_xp_blue_theme.jpg" width="33%" title="Windows XP Luna Blue Theme" /></a>
-	<a href="https://i.pinimg.com/originals/63/c8/b3/63c8b3ba1f42c3e98962a43ddb4b6083.jpg"><img src="https://i.pinimg.com/originals/63/c8/b3/63c8b3ba1f42c3e98962a43ddb4b6083.jpg" width="33%" title="Windows XP Luna Silver Theme" /></a>
-	<a href="https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg"><img src="https://i.pinimg.com/originals/95/09/af/9509afbde753f5376c8cc2a29cca0420.jpg" width="33%" title="Windows XP Luna Olive Green Theme" /></a>
+	<a href="./images/win_xp_silver_theme.jpg"><img src="./images/win_xp_silver_theme.jpg" width="33%" title="Windows XP Luna Silver Theme" /></a>
+	<a href="./images/win_xp_olive_green_theme.jpg"><img src="./images/win_xp_olive_green_theme.jpg" width="33%" title="Windows XP Luna Olive Green Theme" /></a>
 </p>
 <p float="left">
-	<a href="https://static.wikia.nocookie.net/windows/images/4/47/Windows_XP_Royale.png/revision/latest?cb=20120822200936"><img src="https://static.wikia.nocookie.net/windows/images/4/47/Windows_XP_Royale.png/revision/latest?cb=20120822200936" width="33%" title="Windows Royale Theme" /></a>
-	<a href="https://static.wikia.nocookie.net/windows/images/3/38/Windows_XP_Zune.png/revision/latest?cb=20120826035132"><img src="https://static.wikia.nocookie.net/windows/images/3/38/Windows_XP_Zune.png/revision/latest?cb=20120826035132" width="33%" title="Windows XP Zune Theme" /></a>
-	<a href="https://i.imgur.com/rJNOhQg.png"><img src="https://i.imgur.com/rJNOhQg.png" width="33%" title="Windows Classic Theme" /></a>
+	<a href="./images/win_xp_royale_theme.jpg"><img src="./images/win_xp_royale_theme.jpg" width="33%" title="Windows Royale Theme" /></a>
+	<a href="./images/win_xp_zune_theme.jpg"><img src="./images/win_xp_zune_theme.jpg" width="33%" title="Windows XP Zune Theme" /></a>
+	<a href="./images/win_classic_theme.jpg"><img src="./images/win_classic_theme.jpg" width="33%" title="Windows Classic Theme" /></a>
 </p>
 
 
@@ -41,7 +41,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 
 ### Installing
 
-* Download latest [release](./releases/latest)
+* Download latest [release](https://github.com/listumps/wine_themes/releases/latest)
 * Considering your WINEPREFIX is the default one (~/.wine) then just unzip all files and folders into ~/.wine/drive_c/windows/resources/themes
 
 ### Applying a restyled/tweaked theme
@@ -50,7 +50,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 ```bash
 regedit /C ~/.wine/drive_c/windows/resources/themes/reg/apply_{name}_theme.reg
 ```
-where *apply_{name}_theme.reg* is one of the .reg files supplied in the [release](./releases/latest).
+where *apply_{name}_theme.reg* is one of the .reg files supplied in the [release](https://github.com/listumps/wine_themes/releases/latest).
 
 ### Applying an original theme
 
