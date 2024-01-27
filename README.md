@@ -8,14 +8,14 @@ A collection of original and restyled .msstyles themes for [wine](https://www.wi
 Selected bunch of windows .msstyles themes gathered from allover the Internet and some of them tweaked a little bit by using .reg files. Tested and verified to be perfectly working in [wine](https://www.winehq.org/):
 
 * [**Windows XP Style Theme**](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna) (*__color schemes__: Blue, Silver, Olive Green*)
-* [Windows XP Royale Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Royale)
-* [Windows XP Zune Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Zune)
-* [Windows Classic Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Windows_Classic)
-* Lunainspaqua Theme (*color schemes: Normal, Compact, Compact2*)
-* Ambient Theme (*color schemes: Default, Compact, Classic, CLasic Compact*)
-* Human Theme (*color schemes: Orange, Blue, Graphite, Green, Purple, Orange Compact, Blue Compact, Grahite Compact, Green Compact, Purple Compact*)
-* Capriccio Theme
-* Light Theme (*included in wine >= 8.0*)
+* [**Windows XP Royale Theme**](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Royale)
+* [**Windows XP Zune Theme**](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Zune)
+* [**Windows Classic Theme**](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Windows_Classic)
+* **Lunainspaqua Theme** (*__color schemes__: Normal, Compact, Compact2*)
+* **Ambient Theme** (*__color schemes__: Default, Compact, Classic, CLasic Compact*)
+* **Human Theme** (*__color schemes__: Orange, Blue, Graphite, Green, Purple, Orange Compact, Blue Compact, Grahite Compact, Green Compact, Purple Compact*)
+* **Capriccio Theme**
+* **Light Theme** (*included in wine >= 8.0*)
 
 <p float="left">
 	<a href="./images/win_xp_blue_theme.jpg"><img src="./images/win_xp_blue_theme.jpg" width="33%" title="Windows XP Luna Blue Theme" /></a>
