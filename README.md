@@ -13,7 +13,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * [Windows XP Royale Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Royale)
 * [Windows XP Zune Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Zune)
 * [Windows Classic Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Windows_Classic)
-* Light Theme included in wine >= 8.0
+* Light Theme (*included in wine >= 8.0*)
 * Lunainspaqua Theme
 * Ambient Theme
 * Capriccio Theme
