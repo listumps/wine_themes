@@ -25,9 +25,9 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 	<a href="./images/win_xp_olive_green_theme.jpg"><img src="./images/win_xp_olive_green_theme.jpg" width="33%" title="Windows XP Luna Olive Green Theme" /></a>
 </p>
 <p float="left">
-	<a href="./images/win_xp_royale_theme.jpg"><img src="./images/win_xp_royale_theme.jpg" width="33%" title="Windows Royale Theme" /></a>
-	<a href="./images/win_xp_zune_theme.jpg"><img src="./images/win_xp_zune_theme.jpg" width="33%" title="Windows XP Zune Theme" /></a>
-	<a href="./images/win_classic_theme.jpg"><img src="./images/win_classic_theme.jpg" width="33%" title="Windows Classic Theme" /></a>
+	<a href="./images/win_xp_royale_theme.png"><img src="./images/win_xp_royale_theme.png" width="33%" title="Windows Royale Theme" /></a>
+	<a href="./images/win_xp_zune_theme.png"><img src="./images/win_xp_zune_theme.png" width="33%" title="Windows XP Zune Theme" /></a>
+	<a href="./images/win_classic_theme.png"><img src="./images/win_classic_theme.png" width="33%" title="Windows Classic Theme" /></a>
 </p>
 
 
