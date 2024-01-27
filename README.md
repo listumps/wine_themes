@@ -9,7 +9,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 
 *	[Windows XP Luna Blue Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
 <!-- [![](https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg)](https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg "Windows XP Luna Blue Theme") -->
-<img src="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg" width="300" alt="Windows XP Luna Blue Theme" />
+[<img src="https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg" width="300" alt="Windows XP Luna Blue Theme" />](https://i.pinimg.com/originals/0d/01/20/0d0120494eff1a32d9b7e1047333844d.jpg)
 *	[Windows XP Luna Silver Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
 *	[Windows XP Luna Olive Green Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Luna)
 * [Windows XP Royale Theme](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Royale)
