@@ -12,7 +12,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * [**Windows XP Zune Theme**](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Zune)
 * [**Windows Classic Theme**](https://en.wikipedia.org/wiki/Windows_XP_visual_styles#Windows_Classic)
 * **Lunainspaqua Theme** (*Normal, Compact, Compact2*)
-* **Ambient Theme** (*Default, Compact, Classic, Clasic Compact*)
+* **Ambient Theme** (*Default, Compact, Classic, Classic Compact*)
 * **Human Theme** (*Orange, Blue, Graphite, Green, Purple, Orange Compact, Blue Compact, Grahite Compact, Green Compact, Purple Compact*)
 * **Capriccio Theme**
 * **Light Theme** (*included in wine >= 8.0*)
