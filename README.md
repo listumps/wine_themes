@@ -18,14 +18,14 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 * **Light Theme** (*included in wine >= 8.0*)
 
 <p float="left">
-	<a href="./images/win_xp_blue_theme.jpg"><img src="./images/win_xp_blue_theme.jpg" width="31%" title="Windows XP Luna Blue Theme" /></a>
-	<a href="./images/win_xp_silver_theme.jpg"><img src="./images/win_xp_silver_theme.jpg" width="31%" title="Windows XP Luna Silver Theme" /></a>
-	<a href="./images/win_xp_olive_green_theme.jpg"><img src="./images/win_xp_olive_green_theme.jpg" width="31%" title="Windows XP Luna Olive Green Theme" /></a>
+	<a href="./images/win_xp_blue_theme.jpg"><img src="./images/win_xp_blue_theme.jpg" width="32%" title="Windows XP Luna Blue Theme" /></a>
+	<a href="./images/win_xp_silver_theme.jpg"><img src="./images/win_xp_silver_theme.jpg" width="32%" title="Windows XP Luna Silver Theme" /></a>
+	<a href="./images/win_xp_olive_green_theme.jpg"><img src="./images/win_xp_olive_green_theme.jpg" width="32%" title="Windows XP Luna Olive Green Theme" /></a>
 </p>
 <p float="left">
-	<a href="./images/win_xp_royale_theme.png"><img src="./images/win_xp_royale_theme.png" width="31%" title="Windows Royale Theme" /></a>
-	<a href="./images/win_xp_zune_theme.png"><img src="./images/win_xp_zune_theme.png" width="31%" title="Windows XP Zune Theme" /></a>
-	<a href="./images/win_classic_theme.png"><img src="./images/win_classic_theme.png" width="31%" title="Windows Classic Theme" /></a>
+	<a href="./images/win_xp_royale_theme.png"><img src="./images/win_xp_royale_theme.png" width="32%" title="Windows Royale Theme" /></a>
+	<a href="./images/win_xp_zune_theme.png"><img src="./images/win_xp_zune_theme.png" width="32%" title="Windows XP Zune Theme" /></a>
+	<a href="./images/win_classic_theme.png"><img src="./images/win_classic_theme.png" width="32%" title="Windows Classic Theme" /></a>
 </p>
 
 
