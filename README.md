@@ -35,7 +35,7 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 ### Dependencies
 
 * [Wine package](https://wiki.winehq.org/Download) installed
-* A viable [wineprefix](https://askubuntu.com/a/956248/1956673)(default is $HOME/.wine)
+* A viable [wineprefix](https://askubuntu.com/a/956248/1956673) (default is $HOME/.wine)
 
 ### Installing
 
