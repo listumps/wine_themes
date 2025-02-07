@@ -40,13 +40,13 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 ### Installing
 
 * Download latest [release](https://github.com/listumps/wine_themes/releases/latest)
-* Considering your WINEPREFIX is the default one (~/.wine) then just unzip all files and folders into ~/.wine/drive_c/windows/resources/themes
+* Considering your WINEPREFIX is the default one ($HOME/.wine) then just unzip all files and folders into $HOME/.wine/drive_c/windows/resources/themes
 
 ### Applying a restyled/tweaked theme
 
-* Considering your WINEPREFIX is the default one (~/.wine) then just run in console:
+* Considering your WINEPREFIX is the default one ($HOME/.wine) then just run in console:
 ```bash
-regedit /C ~/.wine/drive_c/windows/resources/themes/reg/apply_{name}_theme.reg
+regedit /C $HOME/.wine/drive_c/windows/resources/themes/reg/apply_{name}_theme.reg
 ```
 where *apply_{name}_theme.reg* is one of the .reg files supplied in the [release](https://github.com/listumps/wine_themes/releases/latest).
 
