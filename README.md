@@ -35,16 +35,16 @@ Selected bunch of windows .msstyles themes gathered from allover the Internet an
 ### Dependencies
 
 * [Wine package](https://wiki.winehq.org/Download) installed
-* A viable [wineprefix](https://wiki.winehq.org/FAQ#Wineprefixes)
+* A viable [wineprefix](https://askubuntu.com/a/956248/1956673)(default is $HOME/.wine)
 
 ### Installing
 
 * Download latest [release](https://github.com/listumps/wine_themes/releases/latest)
-* Considering your WINEPREFIX is the default one ($HOME/.wine) then just unzip all files and folders into $HOME/.wine/drive_c/windows/resources/themes
+* Considering your WINEPREFIX is the default one then just unzip all files and folders into $HOME/.wine/drive_c/windows/resources/themes
 
 ### Applying a restyled/tweaked theme
 
-* Considering your WINEPREFIX is the default one ($HOME/.wine) then just run in console:
+* Considering your WINEPREFIX is the default one then just run in console:
 ```bash
 regedit /C $HOME/.wine/drive_c/windows/resources/themes/reg/apply_{name}_theme.reg
 ```
